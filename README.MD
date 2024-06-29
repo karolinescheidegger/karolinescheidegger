@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Karoline Scheideggerr</h1>
-<h3 align="center">Sou formada em Estética e atualmente estou em transição de carreira para Analista de QA. Recentemente fiz um Bootcamp completo em QA, onde adquiri habilidades e tive a oportunidade de participar de 5 projetos incríveis.</h3>
+<h3 align="center">Formação em Estética e atualmente estou em transição de carreira para Analista de QA. Recentemente fiz um Bootcamp completo em QA, onde adquiri habilidades e tive a oportunidade de participar de 5 projetos incríveis.</h3>
 
 
 
